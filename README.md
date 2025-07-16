@@ -40,20 +40,3 @@
 
 ---
 
-### 📊 GitHub Stats:
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&hide=css,scss" alt="Top Langs" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=default" alt="GitHub Stats" />
-</p>
-
----
-
-### 🔥 Contribution Stats:
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&" alt="Streak Stats" />
-</p>
