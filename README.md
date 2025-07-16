@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Phuc</h1>
-<h3 align="center">A passionate SWE from VietNam </h3>
+<h3 align="center">My goal is to become a top-tier SWE. </h3>
 
 
 
@@ -8,7 +8,7 @@
 
 ---
 
-### 🧰 Languages and Tools:
+###  Languages and Tools:
 
 <p align="left">
   <!-- Languages -->
